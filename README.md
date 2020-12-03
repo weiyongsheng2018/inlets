@@ -1,4 +1,4 @@
-## inlets is a Cloud Native Tunnel written in Go
+## inlets is a Cloud Native Tunnel written in Go  一个开源的外网映射工具
 
 <img src="docs/inlets-logo-sm.png" width="150px">
 
